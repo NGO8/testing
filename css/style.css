@@ -1,0 +1,12 @@
+h1 { color: #333333; text-align: center; }
+
+.intro {
+    background-color: #e3f2fd;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+#hero-title {
+    font-size: 48px;
+    color: #1976d2;
+}
